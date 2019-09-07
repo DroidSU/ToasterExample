@@ -5,5 +5,4 @@ Library Demo Project
 
 
 Project to test out creating libraries in android. This library can be used to show Toast messages. 
-
-Just call /*ToasterMessage.show(context, message)*/
+Toast is displayed by calling:  *ToasterMessage.show(context, message)*
